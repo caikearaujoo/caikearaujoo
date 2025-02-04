@@ -1,6 +1,10 @@
 # 👨‍🎓 Sobre mim
 
-Sou um estudante de Ciência da Computação da Universidade Federal de Uberlândia (UFU) com muita curiosidade e empenho para evoluir como profissional e explorar oportunidades de aprendizado e desenvolvimento na área de tecnologia. Em geral, tenho mais familiaridade com C e Java, mas estou sempre buscando novos conhecimentos.
+✨Sou movido pelo desejo de viajar o mundo e inovar através da tecnologia e, por isso, busco construir uma carreira que combine essas duas paixões, o que me levou a estar cursando Ciência da Computação na UFU(Universidade Federal de Uberlândia). Em 2024, fiz um intercâmbio para Toronto para aperfeiçoar meu inglês, onde tive uma experiência internacional que fortaleceu meu desejo de viver e trabalhar no exterior.
+
+👾Competitivo e com espírito de liderança, competi em esportes eletrônicos durante minha vida toda, sempre atuando como capitão das equipes que passei, o que foi uma experiência que me ensinou o valor de planejamento estratégico e do trabalho em equipe, habilidades que aplico na minha vida profissional.
+
+🔊Sou fascinado pelo potencial da tecnologia para transformar setores tradicionais, criando experiências mais acessíveis e práticas para as pessoas. Quero me envolver em projetos que tragam soluções inovadoras e façam a diferença no dia a dia. Busco uma empresa que valorize a inovação e use a tecnologia para reinventar produtos e serviços, impactando positivamente o mercado.
 
 ## 🖥🖱 Habilidades
 
