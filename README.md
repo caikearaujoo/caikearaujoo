@@ -3,7 +3,8 @@
 I am enrolled in a Bachelor’s degree in Computer Science at the Federal University of Uberlândia (UFU) and currently an **IT Intern at Bayer**, working within the Crop Science area, with an emphasis on full-stack development (React, JavaScript), data analysis, and AI solutions built with Python. My work focuses on applying technology to support business processes, data-driven solutions, and scalable systems in a global corporate environment.
 
 In 2024, I lived in Toronto for six months, where I studied English and worked in a factory, gaining hands-on international experience and improving my communication skills in a real-world environment.
-I am highly motivated by using technology to improve efficiency, modernize processes, and create practical solutions with real-world impact. I am particularly interested in software development, systems integration, and building reliable applications that support large-scale operations.
+
+I am motivated by using technology to improve efficiency, modernize processes, and deliver practical solutions with real-world impact. My interests include software development, systems integration, and applied artificial intelligence, with a focus on building reliable and scalable applications.
 
 ---
 
