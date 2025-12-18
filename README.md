@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I am a Computer Science undergraduate at the Federal University of Uberlândia (UFU) and currently an **IT Intern at Bayer**, working within the **Crop Science** area. My work focuses on applying technology to support business processes, data-driven solutions, and scalable systems in a global corporate environment.
+I am enrolled in a Bachelor’s degree in Computer Science at the Federal University of Uberlândia (UFU) and currently an **IT Intern at Bayer**, working within the Crop Science area, with an emphasis on full-stack development (React, JavaScript), data analysis, and AI solutions built with Python. My work focuses on applying technology to support business processes, data-driven solutions, and scalable systems in a global corporate environment.
 
 In 2024, I participated in an exchange program in **Toronto**, where I strengthened my English and gained international experience, reinforcing my goal of building a career in a global and multicultural setting.
 
