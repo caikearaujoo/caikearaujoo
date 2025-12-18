@@ -29,7 +29,7 @@ I am motivated by using technology to improve efficiency, modernize processes, a
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-## 🌐 Technical Content
+### 🌐 Technical Content
 
 I also share technical content and learning notes on my tech profile **@cks.tech**, focused on software development, programming concepts, and applied technology.
 
